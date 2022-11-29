@@ -1,4 +1,4 @@
-# Explict-Detection
+# Explicit-Detection
 
 <h3>Description</h3>
 
